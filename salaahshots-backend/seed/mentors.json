@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dr. A Sharma",
+    "specialization": "Physician",
+    "experience": 8,
+    "location": "Delhi",
+    "available": true
+  },
+  {
+    "name": "Neha Gupta",
+    "specialization": "Psychologist",
+    "experience": 5,
+    "location": "Gurugram",
+    "available": true
+  },
+  {
+    "name": "Rajeev Malhotra",
+    "specialization": "Career Coach",
+    "experience": 10,
+    "location": "Noida",
+    "available": false
+  },
+  {
+    "name": "Isha Mehta",
+    "specialization": "Nutritionist",
+    "experience": 7,
+    "location": "Delhi",
+    "available": true
+  },
+  {
+    "name": "Vikram Singh",
+    "specialization": "Data Scientist",
+    "experience": 6,
+    "location": "Bengaluru",
+    "available": true
+  },
+  {
+    "name": "Priya Nair",
+    "specialization": "UI/UX Designer",
+    "experience": 4,
+    "location": "Mumbai",
+    "available": false
+  },
+  {
+    "name": "Arjun Kumar",
+    "specialization": "Software Engineer",
+    "experience": 9,
+    "location": "Pune",
+    "available": true
+  },
+  {
+    "name": "Simran Kaur",
+    "specialization": "Marketing Expert",
+    "experience": 3,
+    "location": "Chandigarh",
+    "available": true
+  },
+  {
+    "name": "Aman Verma",
+    "specialization": "Finance Advisor",
+    "experience": 12,
+    "location": "Delhi",
+    "available": false
+  },
+  {
+    "name": "Ritika Kapoor",
+    "specialization": "HR Consultant",
+    "experience": 8,
+    "location": "Gurugram",
+    "available": true
+  },
+  {
+    "name": "Kunal Bansal",
+    "specialization": "DevOps Engineer",
+    "experience": 5,
+    "location": "Noida",
+    "available": true
+  },
+  {
+    "name": "Sneha Patel",
+    "specialization": "Product Manager",
+    "experience": 11,
+    "location": "Ahmedabad",
+    "available": true
+  }
+]
